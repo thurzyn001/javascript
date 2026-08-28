@@ -25,3 +25,6 @@ function calcularIMC() {
             alert('Por favor, preencha todos os campos!');
         }
     }
+
+    //troca pra .js professor, não tava dando pra anexar no email :(
+
